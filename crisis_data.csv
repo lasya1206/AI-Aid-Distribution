@@ -1,0 +1,7 @@
+region,latitude,longitude,population,disruption_level,flood_level,food_shortage_score,road_access,days_since_crisis
+Region A,17.385,78.4867,15000,0.9,8,0.95,Blocked,3
+Region B,28.6139,77.209,12000,0.6,5,0.6,Medium,2
+Region C,26.9124,75.7873,8000,0.3,2,0.4,High,1
+Region D,12.9716,77.5946,3000,0.5,4,0.7,Low,4
+Region E,22.5726,88.3639,18000,0.95,9,0.98,Blocked,5
+Region F,19.076,72.8777,6000,0.2,1,0.2,High,1
